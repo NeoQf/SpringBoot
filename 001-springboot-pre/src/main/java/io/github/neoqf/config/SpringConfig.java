@@ -5,7 +5,7 @@ import org.springframework.context.annotation.*;
 
 /**
  * Configuration:表示当前类是作为配置文件使用的。 就是用来配置容器的
- *       位置：在类的上面
+ *       位置：在类上面
  *
  *  SpringConfig类，就相当于beans.xml
  */
