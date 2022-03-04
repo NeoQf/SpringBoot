@@ -4,6 +4,12 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/001-springboot-pre/pom.xml" />
+        <option value="$PROJECT_DIR$/002-springboot-first/pom.xml" />
+        <option value="$PROJECT_DIR$/005-springboot-mvc/pom.xml" />
+        <option value="$PROJECT_DIR$/006-springboot-environment/pom.xml" />
+        <option value="$PROJECT_DIR$/009-springboot-jsp/pom.xml" />
+        <option value="$PROJECT_DIR$/010-springboot-container/pom.xml" />
+        <option value="$PROJECT_DIR$/011-springboot-commandlinerunner/pom.xml" />
       </list>
     </option>
   </component>
