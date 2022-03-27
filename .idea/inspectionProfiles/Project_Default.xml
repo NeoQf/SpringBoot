@@ -30,16 +30,20 @@
       <option name="IGNORE_JAVADOC_PERIOD" value="true" />
       <option name="IGNORE_DUPLICATED_THROWS" value="false" />
       <option name="IGNORE_POINT_TO_ITSELF" value="false" />
-      <option name="myAdditionalJavadocTags" value="Bean的name属性，指定对象的名称（id）,Bean:" />
+      <option name="myAdditionalJavadocTags" value="Bean的name属性，指定对象的名称（id）,Bean:,Mapper：告诉MyBatis，这是dao接口，创建此接口的代理对象。" />
     </inspection_tool>
     <inspection_tool class="MavenPackageUpdate" enabled="true" level="WARNING" enabled_by_default="true">
       <option name="excludeList">
         <list>
           <option value="junit:junit" />
           <option value="org.springframework:spring-context" />
+          <option value="org.mybatis.spring.boot:mybatis-spring-boot-starter" />
+          <option value="org.apache.dubbo:dubbo-spring-boot-starter" />
+          <option value="org.apache.dubbo:dubbo-dependencies-zookeeper" />
         </list>
       </option>
     </inspection_tool>
+    <inspection_tool class="SerializableHasSerialVersionUIDField" enabled="true" level="WARNING" enabled_by_default="true" />
     <inspection_tool class="SpringFacetInspection" enabled="false" level="WARNING" enabled_by_default="false">
       <option name="checkTestFiles" value="false" />
     </inspection_tool>

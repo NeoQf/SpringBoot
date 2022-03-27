@@ -13,7 +13,7 @@
 
     <!-- 当前项目的gav -->
     <groupId>io.github.neoqf</groupId>
-    <artifactId>_002-springboot-first</artifactId>
+    <artifactId>002-springboot-first</artifactId>
     <version>0.0.1-SNAPSHOT</version>
 
     <properties>

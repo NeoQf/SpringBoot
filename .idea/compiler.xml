@@ -6,13 +6,23 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="017-springboot-mapper" />
+        <module name="011-springboot-commandlinerunner" />
+        <module name="024-consumer" />
+        <module name="002-springboot-first" />
+        <module name="012-sprinboot-interceptor" />
+        <module name="013-springboot-servlet" />
+        <module name="006-springboot-environment" />
+        <module name="020-springboot-restful" />
+        <module name="021-springboot-redis" />
+        <module name="010-springboot-container" />
         <module name="005-springboot-mvc" />
         <module name="009-springboot-jsp" />
-        <module name="011-springboot-commandlinerunner" />
-        <module name="002-springboot-first" />
+        <module name="022-interface-api" />
+        <module name="014-springboot-filter" />
+        <module name="015-springboot-character-filter" />
+        <module name="023-service-provider" />
         <module name="001-springboot-pre" />
-        <module name="006-springboot-environment" />
-        <module name="010-springboot-container" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -23,6 +33,17 @@
       <module name="009-springboot-jsp" target="1.8" />
       <module name="010-springboot-container" target="1.8" />
       <module name="011-springboot-commandlinerunner" target="1.8" />
+      <module name="012-sprinboot-interceptor" target="1.8" />
+      <module name="013-springboot-servlet" target="1.8" />
+      <module name="014-springboot-filter" target="1.8" />
+      <module name="015-springboot-character-filter" target="1.8" />
+      <module name="017-springboot-mapper" target="1.8" />
+      <module name="020-springboot-restful" target="1.8" />
+      <module name="021-interface-api" target="8" />
+      <module name="021-springboot-redis" target="1.8" />
+      <module name="022-interface-api" target="8" />
+      <module name="023-service-provider" target="1.8" />
+      <module name="024-consumer" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
@@ -33,6 +54,15 @@
       <module name="009-springboot-jsp" options="-parameters" />
       <module name="010-springboot-container" options="-parameters" />
       <module name="011-springboot-commandlinerunner" options="-parameters" />
+      <module name="012-sprinboot-interceptor" options="-parameters" />
+      <module name="013-springboot-servlet" options="-parameters" />
+      <module name="014-springboot-filter" options="-parameters" />
+      <module name="015-springboot-character-filter" options="-parameters" />
+      <module name="017-springboot-mapper" options="-parameters" />
+      <module name="020-springboot-restful" options="-parameters" />
+      <module name="021-springboot-redis" options="-parameters" />
+      <module name="023-service-provider" options="-parameters" />
+      <module name="024-consumer" options="-parameters" />
     </option>
   </component>
 </project>

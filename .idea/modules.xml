@@ -9,6 +9,16 @@
       <module fileurl="file://$PROJECT_DIR$/009-springboot-jsp/009-springboot-jsp.iml" filepath="$PROJECT_DIR$/009-springboot-jsp/009-springboot-jsp.iml" />
       <module fileurl="file://$PROJECT_DIR$/010-springboot-container/010-springboot-container.iml" filepath="$PROJECT_DIR$/010-springboot-container/010-springboot-container.iml" />
       <module fileurl="file://$PROJECT_DIR$/011-springboot-commandlinerunner/011-springboot-commandlinerunner.iml" filepath="$PROJECT_DIR$/011-springboot-commandlinerunner/011-springboot-commandlinerunner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/012-sprinboot-interceptor/012-sprinboot-interceptor.iml" filepath="$PROJECT_DIR$/012-sprinboot-interceptor/012-sprinboot-interceptor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/013-springboot-servlet/013-springboot-servlet.iml" filepath="$PROJECT_DIR$/013-springboot-servlet/013-springboot-servlet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/014-springboot-filter/014-springboot-filter.iml" filepath="$PROJECT_DIR$/014-springboot-filter/014-springboot-filter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/015-springboot-character-filter/015-springboot-character-filter.iml" filepath="$PROJECT_DIR$/015-springboot-character-filter/015-springboot-character-filter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/017-springboot-mapper/017-springboot-mapper.iml" filepath="$PROJECT_DIR$/017-springboot-mapper/017-springboot-mapper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/020-springboot-restful/020-springboot-restful.iml" filepath="$PROJECT_DIR$/020-springboot-restful/020-springboot-restful.iml" />
+      <module fileurl="file://$PROJECT_DIR$/021-springboot-redis/021-springboot-redis.iml" filepath="$PROJECT_DIR$/021-springboot-redis/021-springboot-redis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/022-interface-api/022-interface-api.iml" filepath="$PROJECT_DIR$/022-interface-api/022-interface-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/023-service-provider/023-service-provider.iml" filepath="$PROJECT_DIR$/023-service-provider/023-service-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/024-consumer/024-consumer.iml" filepath="$PROJECT_DIR$/024-consumer/024-consumer.iml" />
       <module fileurl="file://$PROJECT_DIR$/PowerNodeSpringBoot.iml" filepath="$PROJECT_DIR$/PowerNodeSpringBoot.iml" />
     </modules>
   </component>
